@@ -1,4 +1,4 @@
-# mvdost
+# MVDOST
 Multi-Vector Denial of Service tool for stress testing systems and modelling DoS based attacks to create statistical anomaly and signature based alerting mechanisms.  This is a rough release so it may be buggy but the core functionality is there.
 
 For usage please use -h or --help.
