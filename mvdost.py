@@ -37,7 +37,10 @@ def main():
     print "same directory as the script and title it ntpservers.                      "
     print
     print "Checks are also performed to verify the host is listening and reachable on "
-    print "the specified port before launching attacks.                               "
+    print "the specified port before launching attacks.      "
+    print 
+    print "To stop the attacks close the terminal window, CTRL+C may not close all    "
+    print "child threads gracefully and the application will still run. "
     print
 
     #Option Parsing and Help Specification
